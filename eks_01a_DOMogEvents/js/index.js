@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 	
 	let number = 5;
+	
 	let textCountElement = document.getElementById("text-count");
 	let plusBtn = document.getElementById("btn-count-increase");
 	let minusBtn = document.getElementById("btn-count-decrease");
