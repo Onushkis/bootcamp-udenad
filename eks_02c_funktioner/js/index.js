@@ -2,5 +2,19 @@
 document.addEventListener("DOMContentLoaded", () => {
 
 	// skriv din kode her...
+ 
+	
+	
+	function hils(navn){
+		return `Hej med dig ${navn}`;
+		
 
+		}
+		
+		let hilsResultat = hils("Ona");
+		console.log(hilsResultat);
+
+//Argument
+
+   
 }); // Afslutter: DOMContentLoaded
