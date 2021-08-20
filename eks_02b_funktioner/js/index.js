@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		 console.log(`Hej med dig ${navn}`);
 	 }
 
-//Argument
+//Argument 
 
 	hils("Ona");
 	hils("Rosa");
